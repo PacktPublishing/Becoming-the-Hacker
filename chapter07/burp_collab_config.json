@@ -1,0 +1,29 @@
+ {
+    "serverDomain": "c2.spider.ml",
+    "ssl": {
+        "hostname": "c2.spider.ml"
+    },
+    "eventCapture": {
+        "publicAddress" : "35.196.100.89",
+        "ssl": {
+            "certificateFiles" : [
+              "keys/wildcard.c2.spider.ml.key.pkcs8", 
+              "keys/wildcard.c2.spider.ml.crt", 
+              "keys/intermediate.crt" 
+            ]
+        }
+    },
+    "polling" : {
+      "publicAddress" : "35.196.100.89",
+      "ssl": {
+          "hostname" : "polling.c2.spider.ml"
+      }
+  },
+    "dns": {
+        "interfaces": [{
+            "localAddress": "0.0.0.0",
+            "publicAddress": "35.196.100.89"
+        }]
+    },
+    "logLevel": "DEBUG"
+}

@@ -1,0 +1,15 @@
+<html>
+<head>
+	<title>Welcome!</title>
+</head>
+<body>
+	Welcome <span id="welcome"></span>
+	<script>
+		var position = document.URL.indexOf("name=")
+		var name = document.URL.substring(position + 5, document.URL.length)
+
+		var welcome = document.getElementById("welcome")
+		welcome.innerHTML = name;
+	</script>
+</body>
+</html>

