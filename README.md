@@ -23,19 +23,19 @@ The code will look like the following:
 
 Any modern web browser.
 
-- Chapter 3:  PHP
-- Chapter 4:  Python
-- Chapter 5:  PHP
-- Chapter 6:  Microsoft SQL Server Express
-- Chapter 7:  BurpSuite Pro
-- Chapter 8:  PHP, Python
-- Chapter 10: PHP
-- Chapter 11: Postman
-- Chapter 12: PHP
+* Chapter 3:  PHP
+* Chapter 4:  Python
+* Chapter 5:  PHP
+* Chapter 6:  Microsoft SQL Server Express
+* Chapter 7:  BurpSuite Pro
+* Chapter 8:  PHP, Python
+* Chapter 10: PHP
+* Chapter 11: Postman
+* Chapter 12: PHP
 
 https://www.packtpub.com/networking-and-servers/cybersecurity-attack-and-defense-strategies?utm_source=github&utm_medium=repository&utm_campaign=9781788475297
 
-##Related Products
+## Related Products
 * [Cybersecurity - Attack and Defense Strategies](https://www.packtpub.com/networking-and-servers/cybersecurity-attack-and-defense-strategies?utm_source=github&utm_medium=repository&utm_campaign=9781788475297)
 
 * [Learning Malware Analysis](https://www.packtpub.com/networking-and-servers/learning-malware-analysis?utm_source=github&utm_medium=repository&utm_campaign=9781788392501)
