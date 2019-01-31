@@ -7,7 +7,7 @@ There are many web application tools that claim to provide a complete survey and
 Through the first part of the book, Adrian Pruteanu walks you through commonly encountered vulnerabilities and how to take advantage of them to achieve your goal. The latter part of the book shifts gears and puts the newly learned techniques into practice, going over scenarios where the target may be a popular content management system or a containerized application and its network.
 Becoming the Hacker is a clear guide to web application security from an attacker's point of view, from which both sides can benefit.cross six crafting milestones, and you'll learn many specific skills to achieve that mastery. These skills include how to work with the Node Package Manager in depth, how to connect your Node applications to databases, and how to write unit tests and end-to-end tests for your code. You'll experience the full Node.js development picture, and learn how to craft and control your Node.js applications - right through to fully-fledged web applications using REST, and integration with Angular applications.
 
-##Instructions and Navigation
+## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
 The code will look like the following:
@@ -19,7 +19,7 @@ The code will look like the following:
  }
 ```
 
-##Software Requirements
+## Software Requirements
 
 Any modern web browser.
 
