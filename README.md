@@ -41,6 +41,3 @@ Any modern web browser.
 * [Web Penetration Testing with Kali Linux](https://www.packtpub.com/networking-and-servers/web-penetration-testing-kali-linux-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788623377)
 
 * [Learn Ethical Hacking from Scratch](https://www.packtpub.com/networking-and-servers/learn-ethical-hacking-scratch?utm_source=github&utm_medium=repository&utm_campaign=9781788622059)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
