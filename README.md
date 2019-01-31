@@ -33,8 +33,6 @@ Any modern web browser.
 * Chapter 11: Postman
 * Chapter 12: PHP
 
-https://www.packtpub.com/networking-and-servers/cybersecurity-attack-and-defense-strategies?utm_source=github&utm_medium=repository&utm_campaign=9781788475297
-
 ## Related Products
 * [Cybersecurity - Attack and Defense Strategies](https://www.packtpub.com/networking-and-servers/cybersecurity-attack-and-defense-strategies?utm_source=github&utm_medium=repository&utm_campaign=9781788475297)
 
