@@ -41,3 +41,7 @@ Any modern web browser.
 * [Web Penetration Testing with Kali Linux](https://www.packtpub.com/networking-and-servers/web-penetration-testing-kali-linux-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788623377)
 
 * [Learn Ethical Hacking from Scratch](https://www.packtpub.com/networking-and-servers/learn-ethical-hacking-scratch?utm_source=github&utm_medium=repository&utm_campaign=9781788622059)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788627962">https://packt.link/free-ebook/9781788627962 </a> </p>
